@@ -22,3 +22,7 @@ The `EmpRepo` class serves as a repository for employee records. It includes the
 - `findByEmpId(int empId)`: Finds an employee by their ID and returns an `Optional<Emp>`.
 - `empUpdate(Emp emp, int empId)`: Updates the details of an employee with a specified ID.
 - `displayAllEmps()`: Displays all employees in the repository.
+
+# Employee Management System - Main Class
+
+This repository contains a simple Java-based Employee Management System implemented in a `Main` class. The system utilizes the `Emp` and `EmpRepo` classes to create and manage employee records.
